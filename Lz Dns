@@ -13,6 +13,8 @@
 
 ;设置规则标志位
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/Zzj0018/Direct/refs/heads/main/Direct.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/MI.list
+ruleset=🎯 全球直连,https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/LvMiLianChuang.list
 ruleset=🚀 节点选择,https://raw.githubusercontent.com/Zzj0018/ProxyLite/refs/heads/main/ProxyLite.list
 ruleset=🛑 广告拦截,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
 ruleset=🍃 应用净化,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
